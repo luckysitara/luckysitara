@@ -1,0 +1,15 @@
+first_name = input("Enter your first name: ")
+middle_name = input("Enter your middle name: ")
+last_name = input("Enter your last name: ")
+age = input("Enter your age: ")
+gender = input("Enter your gender: ")
+address = input("Enter your address: ")
+print("\n")
+
+print("these are your Bio-data\n")
+
+print(first_name)
+print(middle_name)
+print(last_name)
+print(age)
+print(address)
