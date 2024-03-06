@@ -1,4 +1,3 @@
-Redefining Readme.me
 ![plot](./images/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Bughacker</h1>
 <h3 align="center"><b>A curious Software/Cybersecurity Engineer from Nigeria</b></h3>
