@@ -43,4 +43,3 @@ I'm a passionate Engimeer looking to build, implement, secure  and launch cool p
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagobedoa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="santiagobedoa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagobedoa&show_icons=true&locale=en&theme=tokyonight" alt="santiagobedoa" /></p>
