@@ -39,7 +39,5 @@ As a Security Engineer and I build, implement, secure, collaborate and launch co
 <h2 align="left">Some statics... becuase, why not?</h2>
 <!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=santiagobedoa&&theme=xcode)](https://github.com/santiagobedoa) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiagobedoa&&theme=tokyonight" alt="santiagobedoa" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagobedoa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="santiagobedoa" /></p>
 
