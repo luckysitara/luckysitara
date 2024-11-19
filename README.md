@@ -3,7 +3,7 @@
 <h3 align="center"><b>A curious Software/Cybersecurity Engineer from Nigeria</b></h3>
 <p></p>
 
-I'm an Engineer and I build, implement, secure, collaborate and launch cool projects. I have been trained in different programming languages such as C, Python, and Javascript, php, brainfuck, typescript, gaining excellent problem-solving skills. Also, I have knowledge in the most important areas of a business, such as marketing, finance, economics, business intelligence, and strategy. This means that I not only understand the business value of a process but also the workflow and coding relate to it. I have the ability to sit with a customer, understand their desires, target the problem, and participate in the coding process behind it and also as a Cybersecurity Engineer I build, deploy, secure and destroy any software I set my mind on.
+I'm a Security Engineer and I build, implement, secure, collaborate and launch cool projects. I have good experience in different programming languages such as C, Python, and Javascript, PHP, Brainfuck, Typescript, Rust, Solidity,  gaining excellent problem-solving skills. Also, I have knowledge in the most important areas of a business, such as marketing, finance, economics, business intelligence, and strategy. This means that I not only understand the business value of a process but also the workflow and coding relate to it. I have the ability to sit with a customer, understand their desires, target the problem, and participate in the coding process behind it and also as a Cybersecurity Engineer I build, deploy, secure and destroy any software I set my mind on.
 
 ⚡ **If I like it, I will do it no matter what!**
 
