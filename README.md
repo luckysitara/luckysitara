@@ -12,7 +12,7 @@ As a Security Engineer and I build, implement, secure, collaborate and launch co
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bughacker001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bughacker001/" height="30" width="40" /></a>
-<a href="https://twitter.com/buhacker001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bughacker001" height="30" width="40" /></a>
+<a href="https://twitter.com/buhacker140823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bughacker001" height="30" width="40" /></a>
 <a href="https://medium.com/@bughacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@bughacker" height="30" width="40" /></a>
 </p>
 <p></p>
@@ -36,8 +36,7 @@ As a Security Engineer and I build, implement, secure, collaborate and launch co
 </p>
 <p></p>
 
-<h2 align="left">Some statics... becuase, why not?</h2>
-<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=santiagobedoa&&theme=xcode)](https://github.com/santiagobedoa) -->
+<h2 align="left">Some statics....... I DO HARD THINGS?</h2>
 
 
 
